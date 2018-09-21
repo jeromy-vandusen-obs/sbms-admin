@@ -19,3 +19,7 @@ To run in a Docker swarm, use the `swarm` profile.
 
 * EUREKA_INSTANCE_LIST: A comma-separated list of Eureka discovery service URLs. The default value is
 `http://localhost:8761/eureka/`.
+
+## To Do
+
+* Add security.
